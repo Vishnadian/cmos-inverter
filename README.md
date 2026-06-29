@@ -22,19 +22,19 @@ This project contains the design, simulation, and layout of a standard CMOS Inve
 Below are the screenshots capturing various stages of the design, including schematics, simulations, and layouts:
 
 ### Schematic & Design 1
-![CMOS Inverter Image 1](vishnadian/cmos-inverter/cmos-inverter-096c0d596ca0b6f4c5bd85a97763de2be4c89279/images/1776707374547.jfif)
+![CMOS Inverter Image 1](images/1776707374547.jfif)
 
 ### Schematic & Design 2
-![CMOS Inverter Image 2](vishnadian/cmos-inverter/cmos-inverter-096c0d596ca0b6f4c5bd85a97763de2be4c89279/images/1776707379846.jfif)
+![CMOS Inverter Image 2](images/1776707379846.jfif)
 
 ### Schematic & Design 3
-![CMOS Inverter Image 3](vishnadian/cmos-inverter/cmos-inverter-096c0d596ca0b6f4c5bd85a97763de2be4c89279/images/1776707394075.jfif)
+![CMOS Inverter Image 3](images/1776707394075.jfif)
 
 ### Simulation & Analysis 4
-![CMOS Inverter Image 4](vishnadian/cmos-inverter/cmos-inverter-096c0d596ca0b6f4c5bd85a97763de2be4c89279/images/1776707412223.jfif)
+![CMOS Inverter Image 4](images/1776707412223.jfif)
 
 ### Layout & Results 5
-![CMOS Inverter Image 5](vishnadian/cmos-inverter/cmos-inverter-096c0d596ca0b6f4c5bd85a97763de2be4c89279/images/1776707573206.jfif)
+![CMOS Inverter Image 5](images/1776707573206.jfif)
 
 ---
 *Developed as part of a VLSI Custom IC Design flow.*
